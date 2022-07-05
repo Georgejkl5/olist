@@ -1,5 +1,7 @@
-Olist
+Project Olist: Provide recommendation to Olist on how improve profit margins.
+1. Please look Olist's Recommendation to improve profit margin.ipynb.
 ==============================
+
 
 # Objectives
  **1. Business task:**
@@ -43,10 +45,10 @@ IT_cost
 * Olist’s total cumulated IT Costs to be proportional to the square-root of the total cumulated number of orders approved.
 * The IT department also told you that since the birth of the marketplace, cumulated IT costs have amounted to 500,000 BRL.
 
-# Data Source:
+# Data Source
 The data is public data from the Brazilian E-Commerce data by Olist. The dataset has information of 100,000 orders from 2016 to 2018. The dataset includes order status, price, payment, freight performance to customer location, product attributes and reviews written by customers. It is very detailed database about the orders with each dimension segmented into different tables.
 
-## References
+# References
 -  Olist, &amp; André Sionek. (2018). <i>Brazilian E-Commerce Public Dataset by Olist</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/195341
 
 --------
