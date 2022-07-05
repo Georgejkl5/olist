@@ -18,16 +18,11 @@ wheel>=0.29
 # data science
 numpy
 pandas
-scikit-learn
 statsmodels
 
 # visualisation
 matplotlib
 seaborn
-
-## ddi packages
-rdkit-pypi
-mordred
 
 # tests/linter
 black
@@ -52,6 +47,3 @@ termcolor
 # others
 pylint
 ipdb
-# jupyterlab
-openpyxl
-streamlit
