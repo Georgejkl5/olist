@@ -20,8 +20,7 @@ Produce a report with the following deliverables:
 3. Documentation of any cleaning or manipulation of data
 4. A summary of your analysis
 5. Supporting visualizations and key findings
-6. Your top high-level content recommendations based on your analysis
- - Data source: Olist
+6. Your top high-level content recommendations based on your analysis.
 
  # Assumptions
 **Revenue**
