@@ -1,7 +1,5 @@
-Project Olist: Provide recommendation to Olist on how improve profit margins.
-1. Please look Olist's Recommendation to improve profit margin.ipynb.
-==============================
-
+# Project Olist: Provide recommendation to Olist on how improve profit margins.
+ - Please look at "Olist's recommendation to improve profit margin.ipynb" to view the analysis.
 
 # Objectives
  **1. Business task:**
